@@ -743,6 +743,12 @@ button[type="submit"] {
     padding: 15px; /* Adjust padding */
     width: 90%; /* 90% width */
   }
+  .ch .cont {
+    flex-wrap: wrap;
+  }
+  .ch {
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 480px) {
